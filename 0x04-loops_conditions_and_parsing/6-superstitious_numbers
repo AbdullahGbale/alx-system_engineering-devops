@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
-
-count=1
-
 # Use a while loop to iterate from 1 to 20
+count=0
 while [ $count -le 20 ]; do
 	case $count in
 		4)
