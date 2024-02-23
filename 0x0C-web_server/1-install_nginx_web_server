@@ -1,0 +1,7 @@
+#!/usr/bin env bash
+# configure a new ubuntu server to install
+# Nginx and should be listening on port 80
+# return a page that contains the string Hello World!
+#
+
+echo -e "Update and install Nginx.
